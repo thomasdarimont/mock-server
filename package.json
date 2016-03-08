@@ -1,0 +1,27 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "simple json mock server example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerbermichi/mock-server.git"
+  },
+  "keywords": [
+    "json",
+    "mock",
+    "server"
+  ],
+  "author": "Michael Gerber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerbermichi/mock-server/issues"
+  },
+  "homepage": "https://github.com/gerbermichi/mock-server#readme",
+  "devDependencies": {
+    "json-server": "^0.8.8"
+  }
+}
